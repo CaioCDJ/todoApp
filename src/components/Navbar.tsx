@@ -8,7 +8,7 @@ const Navbar = () => {
             <nav className="uk-navbar">
                 <div className="uk-navbar-left">
                     <a className="uk-navbar-item uk-logo">
-                        hehe boy
+                        Lista de Tarefas
                     </a>
                 </div>
                 <div className="uk-navbar-right">
